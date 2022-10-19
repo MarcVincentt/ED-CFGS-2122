@@ -197,9 +197,9 @@ Podemos diferenciar entre:
 En este curso se utilizarán las funcionalidades de Java SE.
 El archivo es diferente en función del sistema operativo donde se tenga que instalar. así:
 
-- Para los sistemas operativos Windows y Mac OS hay un archivo instalable.
-- Para los sistemas operativos GNU/Linux que admiten paquetes .rpm o .deb también hay disponibles paquetes de este tipo.
-- Para el resto de sistemas operativos GNU/Linux hay un archivo comprimido (terminado en .tar.gz).
+  - *Para los sistemas operativos Windows y Mac OS hay un archivo instalable.*
+  - *Para los sistemas operativos GNU/Linux que admiten paquetes .rpm o .deb también hay disponibles paquetes de este tipo.*
+  - *Para el resto de sistemas operativos GNU/Linux hay un archivo comprimido (terminado en .tar.gz).*
 
 En los dos primeros casos, sólo hay que seguir el procedimiento de instalación habitual en el sistema operativo con el que se trabaja.
 
